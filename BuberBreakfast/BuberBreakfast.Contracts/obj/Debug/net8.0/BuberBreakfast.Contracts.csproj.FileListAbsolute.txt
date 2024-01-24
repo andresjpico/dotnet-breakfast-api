@@ -1,0 +1,12 @@
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.deps.json
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\bin\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.sourcelink.json
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.dll
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
+C:\Users\Andres\workspace\dotnet-breakfast-api\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll
